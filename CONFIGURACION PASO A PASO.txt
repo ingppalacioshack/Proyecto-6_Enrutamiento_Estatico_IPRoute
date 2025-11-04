@@ -1,5 +1,5 @@
 Proyecto #5
-Enrutamiento RipV2
+Enrutamiento Estático IPROUTE
 Ing.Pablo Palacios
 
 PROTECTO DE REDES DE COMPUTADORAS
@@ -127,4 +127,5 @@ CONFIGURAR PCS
 ======================
 Felicidades
 Ing. Pablo palacios
+
 ======================
